@@ -20,7 +20,7 @@
 				src="https://github.com/kin-cunico/kin-cunico/blob/main/devcard.svg"
 				width="180"
 				alt="Kin Cunico's Dev Card"
-				align="left"
+				align="right"
 			/>
 		</a>
 		<a href="https://github.com/kin-cunico/github-readme-stats">
