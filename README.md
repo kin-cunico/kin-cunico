@@ -1,7 +1,5 @@
-## Welcome to my github!
-## Bem-vindo ao meu github!
-## Benvenuto al mio github!
-## Bienvenido a mi github!
+## Welcome to my github! || Bem-vindo ao meu github! || Benvenuto al mio github! || Bienvenido a mi github!
+
 
 <div
 	display="flex"
