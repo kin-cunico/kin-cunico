@@ -18,6 +18,8 @@
 		<img
 			src="https://github.com/kin-cunico/kin-cunico/blob/main/devcard.svg"
 			alt="Kin Cunico's Dev Card"
+			height="50%"
+			width="50%"
 		/>
 	</a>
 	<br />
