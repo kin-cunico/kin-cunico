@@ -8,7 +8,7 @@
 	flex-wrap="wrap"
 	gap="20px"
 	align-items="center"
-	justify-content="space-around"
+	justify-content="space-evenly"
 	padding-top="20px"
 	padding-bottom="20px"
 	height="100vh"
@@ -21,10 +21,11 @@
 			alt="Kin Cunico's Dev Card"
 		/>
 	</a>
+	<br />
 	<a href="https://github.com/kin-cunico/github-readme-stats">
 		<img
-			width="200"
-			height="150"
+			width="350"
+			height="250"
 			src="https://github-readme-stats.vercel.app/api?username=kin-cunico&count_private=true&show_icons=true&theme=cobalt&bg_color=00000000"
 		/>
 	</a>
