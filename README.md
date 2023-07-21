@@ -24,6 +24,8 @@
 	<a href="https://github.com/kin-cunico/github-readme-stats">
 		<img
 			align="left"
+			width="200"
+			height="150"
 			src="https://github-readme-stats.vercel.app/api?username=kin-cunico&count_private=true&show_icons=true&theme=cobalt&bg_color=00000000"
 		/>
 	</a>
