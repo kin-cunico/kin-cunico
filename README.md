@@ -1,5 +1,7 @@
-## Welcome to my github! || Bem-vindo ao meu github! || Benvenuto al mio github! || Bienvenido a mi github!
+## Welcome to my GitHub! || Bem-vindo ao meu Github! || Benvenuto al mio Github! || Bienvenido a mi Github!
+### If you like anything from my repos, please drop a star. 
 
+<i>If you wish to contact me, you can do so by emailing me at contact@kincunico.dev <i>
 
 <div
 	display="flex"
