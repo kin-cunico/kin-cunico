@@ -8,24 +8,21 @@
 	flex-wrap="wrap"
 	gap="20px"
 	align-items="center"
-	justify-content="space-evenly"
+	justify-content="center"
 	padding-top="20px"
 	padding-bottom="20px"
 	height="100vh"
-	width="auto"
+	width="100%"
 >
 	<a href="https://app.daily.dev/kincunico">
 		<img
 			src="https://github.com/kin-cunico/kin-cunico/blob/main/devcard.svg"
-			width="180"
 			alt="Kin Cunico's Dev Card"
 		/>
 	</a>
 	<br />
 	<a href="https://github.com/kin-cunico/github-readme-stats">
 		<img
-			width="350"
-			height="250"
 			src="https://github-readme-stats.vercel.app/api?username=kin-cunico&count_private=true&show_icons=true&theme=cobalt&bg_color=00000000"
 		/>
 	</a>
