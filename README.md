@@ -23,14 +23,14 @@
 	<br />
 	<a href="https://github.com/kin-cunico/github-readme-stats">
 		<img
-			src="https://github-readme-stats.vercel.app/api?username=kin-cunico&count_private=true&show_icons=true&theme=cobalt&bg_color=#eb343a"
+			src="https://github-readme-stats-sigma-five.vercel.app/api?username=kin-cunico&count_private=true&show_icons=true&theme=cobalt&bg_color=#eb343a"
 			alt="Kin Cunico's GitHub status"
 			align="right"
 		/>
 	</a>
 	<a href="https://github.com/kin-cunico/github-readme-stats">
 		<img
-			src="https://github-readme-stats.vercel.app/api/top-langs/?username=kin-cunico&layout=compact&langs_count=7"
+			src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kin-cunico&layout=compact&langs_count=7"
 			alt="Kin Cunico GitHub status"
 			align="right"
 		/>
