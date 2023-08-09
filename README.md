@@ -35,6 +35,7 @@ en-GB — pt-BR — it-IT — jp-JP
 ### If you like anything from my repos, please consider dropping a star ★
 
 <i>If you wish to contact me, you can do so by emailing me at contact@kincunico.dev <i>
+<p>You can also visit my portfolio <a href="https://kincunico.dev" target="_blank">here</a></p>
 
 <div
 	display="flex"
