@@ -30,7 +30,24 @@
 Jest — React testing library — LuaUnit
 
 ### spoken languages:
-en-GB — pt-BR — it-IT — jp-JP 
+<div 
+	display="flex"
+	gap="20px"
+	align-items="center"
+	justify-content="center"
+	padding-top="20px"
+	padding-bottom="20px"
+	>
+	<img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/31059a7a-f02f-40b2-99be-51887c182cb1" alt="Brazilian flag" width="50" height="50" />
+	</br>
+	<img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/f16dc235-9f47-4bb9-8d32-b52a53862ddf" alt="British flag" width="50" height="50" /> 
+	<img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/c6dd6ab7-0722-4743-8077-8f63b507f167" alt="Italian flag" width="50" height="50" />
+	<img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/cfaa7325-46e0-49b3-bf9f-3cc34627b2e7" alt="Japanese flag" width="50" height="50" />
+</div>
+
+
+<i>he/him </br>
+<img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/b0fbf5e0-06e8-41a1-9aa8-83d40576eb8d" alt="lgbt flag" width="50" height="50"/></i>
 
 ### If you like anything from my repos, please consider dropping a star ★
 
