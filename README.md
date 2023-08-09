@@ -1,8 +1,8 @@
 # Welcome to my GitHub!
 
 ## Hello, my name is Kin. 
-<p text-align="justify">I am a developer based in the UK. I have specialized in web development with React, but I also spend a lot of time with Lua. </p>
-<p text-align="justify">I love playing video games and board games, listening to music, drawing, and writing. I also enjoy learning new things, such as new programming languages, or any language whatsoever.</p>
+<p>I am a developer based in the UK. I have specialized in web development with React, but I also spend a lot of time with Lua. </p>
+<p>I love playing video games and board games, listening to music, drawing, and writing. I also enjoy learning new things, such as new programming languages, or any language whatsoever.</p>
 
 ### my tech stack:
 <img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/b9681761-cf52-4f8a-bc60-40658aa0e0ba" alt="javascript logo" width="50" height="50"/>
@@ -15,11 +15,7 @@
 <img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/fcfda913-79f4-4d70-b2ab-ea41b3961060" width="50" height="50" alt="postgresql logo"/> 
 
 #### Libraries & Frameworks:
-<div 
-	display="flex" 
-	justify-content="space-between"
-	align-items="center"
-	><img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/9bdaba7a-7353-4e3e-b76e-8bc899ddf472" width="50" height="50" alt="react logo"/>
+<div><img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/9bdaba7a-7353-4e3e-b76e-8bc899ddf472" width="50" height="50" alt="react logo"/>
 <img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/beea70f8-3d47-458d-b079-5113d1e6c9f3" width="50" height="50" alt="node.js logo"/>
 <img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/0d16f862-01e4-40bd-a8a3-6fc67058f13c" width="50" height="50" alt="tailwindcss logo"/>
 <img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/e54e6a7a-bd13-49ed-9791-dc5e936eb619" width="50" height="50" alt="chakra.ui logo"/>
@@ -30,16 +26,8 @@
 Jest — React testing library — LuaUnit
 
 ### spoken languages:
-<div 
-	display="flex"
-	gap="20px"
-	align-items="center"
-	justify-content="center"
-	padding-top="20px"
-	padding-bottom="20px"
-	>
+<div>
 	<img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/31059a7a-f02f-40b2-99be-51887c182cb1" alt="Brazilian flag" width="50" height="50" />
-	</br>
 	<img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/f16dc235-9f47-4bb9-8d32-b52a53862ddf" alt="British flag" width="50" height="50" /> 
 	<img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/c6dd6ab7-0722-4743-8077-8f63b507f167" alt="Italian flag" width="50" height="50" />
 	<img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/cfaa7325-46e0-49b3-bf9f-3cc34627b2e7" alt="Japanese flag" width="50" height="50" />
@@ -54,14 +42,7 @@ Jest — React testing library — LuaUnit
 <i>If you wish to contact me, you can do so by emailing me at contact@kincunico.dev <i>
 <p>You can also visit my portfolio <a href="https://kincunico.dev" target="_blank">here</a></p>
 
-<div
-	display="flex"
-	gap="20px"
-	align-items="center"
-	justify-content="center"
-	padding-top="20px"
-	padding-bottom="20px"
->
+<div>
 	<a href="https://app.daily.dev/kincunico">
 		<img
 			src="https://github.com/kin-cunico/kin-cunico/blob/main/devcard.svg"
