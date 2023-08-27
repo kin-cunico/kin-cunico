@@ -8,11 +8,9 @@
 <img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/b9681761-cf52-4f8a-bc60-40658aa0e0ba" alt="javascript logo" width="50" height="50"/>
 <img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/852a3a92-e1b5-4f45-b270-8a392aa72e4e" alt="typescript logo" width="50" height="50"/> 
 <img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/1153ceef-6895-41e8-abf8-ffb07c2a834d" alt="lua language logo" width="50" height="50" />
-<img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/041ea295-5c38-4c3d-9f3b-344940feaf2e" alt="python logo" width="50" height="50" /> 
 <img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/1bbbbf33-d2ae-43c8-b679-7669e9f621b1" width="50" height="50" alt="html logo"/> 
 <img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/e4eed330-9660-4d92-a043-e3b6168312b9" width="50" height="50" alt="css logo"/> 
 <img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/455348d7-189e-430b-aa78-49eed287e575" width="50" height="50" alt="graphql logo"/> 
-<img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/fcfda913-79f4-4d70-b2ab-ea41b3961060" width="50" height="50" alt="postgresql logo"/> 
 
 #### Libraries & Frameworks:
 <div><img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/9bdaba7a-7353-4e3e-b76e-8bc899ddf472" width="50" height="50" alt="react logo"/>
