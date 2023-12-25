@@ -1,6 +1,6 @@
-# Welcome to my GitHub!
+#### Welcome to my GitHub!
 
-## Hello, my name is Kin. 
+# Hello, my name is Kin. 
 <p>I am a developer based in the UK. I have specialized in web development with React, but I also spend a lot of time with Lua and Python. </p>
 <p>I love playing video games and board games, listening to music, drawing, and writing. I also enjoy studying and learning new things! </p>
 
