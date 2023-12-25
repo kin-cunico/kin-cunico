@@ -1,8 +1,8 @@
 # Welcome to my GitHub!
 
 ## Hello, my name is Kin. 
-<p>I am a developer based in the UK. I have specialized in web development with React, but I also spend a lot of time with Lua. </p>
-<p>I love playing video games and board games, listening to music, drawing, and writing. I also enjoy learning new things, such as new programming languages, or any language whatsoever.</p>
+<p>I am a developer based in the UK. I have specialized in web development with React, but I also spend a lot of time with Lua and Python. </p>
+<p>I love playing video games and board games, listening to music, drawing, and writing. I also enjoy studying and learning new things! </p>
 
 ### my tech stack:
 <img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/b9681761-cf52-4f8a-bc60-40658aa0e0ba" alt="javascript logo" width="50" height="50"/>
