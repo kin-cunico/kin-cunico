@@ -17,7 +17,6 @@
 <div><img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/9bdaba7a-7353-4e3e-b76e-8bc899ddf472" width="50" height="50" alt="react logo"/>
 <img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/beea70f8-3d47-458d-b079-5113d1e6c9f3" width="50" height="50" alt="node.js logo"/>
 <img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/0d16f862-01e4-40bd-a8a3-6fc67058f13c" width="50" height="50" alt="tailwindcss logo"/>
-<img src="https://github.com/kin-cunico/kin-cunico/assets/124842064/e54e6a7a-bd13-49ed-9791-dc5e936eb619" width="50" height="50" alt="chakra.ui logo"/>
  <br/>
 <img src="https://img.icons8.com/color/48/numpy.png" width="50" height="50" alt="numpy"/>
 <img width="50" height="50" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/> <br/>
