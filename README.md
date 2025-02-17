@@ -16,7 +16,7 @@ Technologies
 | Technology  | Level |
 |------------|-------|
 | JavaScript | ★★★★★ |
-| TypeScript | ★★★   | 
+| TypeScript | ★★★★   | 
 | Python     | ★★★★  |
 | Java       | ★★    |
 | C#         | ★★    |
