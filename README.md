@@ -40,7 +40,6 @@ Languages
 
 
 I love playing video games 🎮 and board games 🎲, travelling 🛩️, drawing 🖼️, and writing ✍️. <br>
-Devising something egregious is where you will most likely find me.
 
 <i>But just bear with me, I have this idea...</i>
 
