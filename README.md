@@ -5,7 +5,7 @@ Currently, I am based in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿, but eager to mov
 As far as technologies go, I am proficient with <b>JavaScript, TypeScript, and Python</b>. <br>
 I love playing video games 🎮 and board games 🎲, travelling 🛩️, drawing 🖼️, and writing ✍️. <br>
 Devising something egregious is where you will most likely find me.
-<br>
+
 <i>But just bear with me, I have this idea...</i>
 
 ### spoken languages:
