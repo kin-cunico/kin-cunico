@@ -5,7 +5,7 @@ Currently, I am based in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 <br>
 
 As far as technologies go, I am proficient with <b>JavaScript, TypeScript, and Python</b>. <br>
 
-You can check my portfolio to see a list of live projects: https://kincunico.dev
+You can check my portfolio to see a list of live projects: <a href="https://kincunico.dev" target="_blank"></a>
 
 <table>
   <tr>
