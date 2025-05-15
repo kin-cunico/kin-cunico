@@ -43,13 +43,16 @@ I love playing video games 🎮 and board games 🎲, travelling 🛩️, drawin
 
 <i>But just bear with me, I have this idea...</i>
 
-
-### If you like anything from my repos, please consider dropping a ⭐
-
 <div>
-	<a href="https://github.com/kin-cunico/github-readme-stats">
+	<a href="https://github.com/kin-cunico">
 		<img
-			src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kin-cunico&theme=blue-green&layout=compact"
+			height="180em"
+			src="https://github-readme-stats.vercel.app/api?username=kin-cunico&show_icons=true&layout=compact&theme=tokyonight&rank_icon=percentile"
+			alt="Card"
+		/>
+		<img
+			height="180em"
+			src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kin-cunico&layout=compact&langs_count=8&theme=tokyonight"
 			alt="Kin Cunico GitHub status"
 		/>
 	</a>
