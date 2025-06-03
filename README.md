@@ -18,8 +18,7 @@ Technologies
 | JavaScript | ★★★★★ |
 | TypeScript | ★★★★   | 
 | Python     | ★★★★  |
-| Java       | ★★    |
-| C#         | ★★    |
+| Java       | ★★★★   |
 
 </td>
 <td>
