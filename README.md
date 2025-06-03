@@ -15,10 +15,10 @@ Technologies
 
 | Technology  | Level |
 |------------|-------|
+| Java       | ★★★★★   |
 | JavaScript | ★★★★★ |
 | TypeScript | ★★★★   | 
-| Python     | ★★★★  |
-| Java       | ★★★★   |
+
 
 </td>
 <td>
