@@ -18,6 +18,8 @@ Technologies
 | Java       | ★★★★★   |
 | JavaScript | ★★★★★ |
 | TypeScript | ★★★★   | 
+| HTML5 | ★★★★   | 
+| CSS3 | ★★★★   | 
 
 
 </td>
