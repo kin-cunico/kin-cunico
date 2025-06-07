@@ -1,9 +1,9 @@
-## Hello, my name is Kin, born in Brazil 🇧🇷, raised in Italy 🇮🇹
+## Hi, my name is Kin
 <img src="https://user-images.githubusercontent.com/74038190/216658117-5a5c9ab7-7319-4ffa-9e64-79d6bf0fb8d1.gif" height=100 align="center" /> You can contact me by sending an email to contact@kincunico.dev
 
-Currently, I am based in Scotland <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWN2Y2ttaTFjaXJ3dmh5OWxpam55a2M2Zjh6ZXBzbHBwMjllMGJmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lEDth3ZMBrQFa/giphy.gif" height=100 align="center" /> <br>
+I am an Italo-Brazilian currently based in Scotland <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWN2Y2ttaTFjaXJ3dmh5OWxpam55a2M2Zjh6ZXBzbHBwMjllMGJmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lEDth3ZMBrQFa/giphy.gif" height=100 align="center" /> <br>
 
-As far as technologies go, I am proficient with <b>Java, JavaScript, and TypeScript</b>, as well as front-end technologies such as HTML5 and CSS3. <br>
+As far as technologies go, I do OOP with <b>Java</b> and <b>Python</b>. Then I also have familiarity with JavaScript, TypeScript, as well as front-end technologies such as HTML5 and CSS3. <br>
 
 <table align="center">
 	
