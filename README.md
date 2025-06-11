@@ -6,36 +6,17 @@
 
 > [!IMPORTANT]
 > As far as technologies go, I do OOP with <b>Java</b> and <b>Python</b>. Then I also have familiarity with JavaScript, TypeScript, as well as front-end technologies such as HTML5 and CSS3
-> 
+ 
 <table align-items="start">
-  <tr display="flex">
-	  <td> 
+  <tr display="flex" align="center" justify="center">
+	  <td display="flex"> 
 	<h4 align="center"> Public Github Stats </h4>
-	<p>
-		<img
-			height="180em"
-			src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kin-cunico&layout=compact&langs_count=8&theme=tokyonight"
-			alt="Kin Cunico GitHub status"
-		/>
-	</p>
+		  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kin-cunico&layout=pie&langs_count=8)
+		  
+<a href="github.com/kin-cunico" target="_blank"> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kin-cunico&repo=RadioWorld&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+	</a>
 </td>
-    <td>    
-<h4 align="center">Technologies</h4>
-
-| Technology  |
-|------------|
-| Java |
-| Python |
-|  JavaScript  |
-| TypeScript |
-| HTML5 |
-| CSS3 |
-| GraphQL |
-| MySQL |
-| Lua |
-
-</td>
-
 <td>
 <h4 align="center">Languages</h4>
 
@@ -50,7 +31,7 @@
   </tr>
 </table>
 
-> [!NOTE]
+> [!WARNING]
 > I love playing video games 🎮 and board games 🎲, travelling 🛩️, drawing 🖼️, and writing ✍️
 
 > [!CAUTION]
