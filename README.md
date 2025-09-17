@@ -5,7 +5,7 @@
 > You can contact me by sending an email to contact@kincunico.dev <img src="https://user-images.githubusercontent.com/74038190/216658117-5a5c9ab7-7319-4ffa-9e64-79d6bf0fb8d1.gif" style="height:100px;" align="center" />
 
 > [!IMPORTANT]
-> As far as technologies go, I do OOP with <b>Java</b> and <b>Python</b>. Then I also have familiarity with JavaScript, TypeScript, as well as front-end technologies such as HTML5 and CSS3
+> As far as technologies go, I do OOP with <b>Java</b>. I also have familiarity with JavaScript, TypeScript, as well as front-end technologies such as HTML5 and CSS3.
  
 <table align-items="start">
   <tr display="flex" align="center" justify="center">
