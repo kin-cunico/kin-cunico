@@ -1,5 +1,5 @@
 > [!NOTE]
-> Hi, my name is Kin, I am an Italo-Brazilian currently based in Scotland <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWN2Y2ttaTFjaXJ3dmh5OWxpam55a2M2Zjh6ZXBzbHBwMjllMGJmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lEDth3ZMBrQFa/giphy.gif" style="height:100px;" align="center" />
+> Hi, my name is Kin, I am an a Software and Games Development student based in Scotland <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWN2Y2ttaTFjaXJ3dmh5OWxpam55a2M2Zjh6ZXBzbHBwMjllMGJmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lEDth3ZMBrQFa/giphy.gif" style="height:100px;" align="center" />
 
 > [!TIP]
 > You can contact me by sending an email to contact@kincunico.dev <img src="https://user-images.githubusercontent.com/74038190/216658117-5a5c9ab7-7319-4ffa-9e64-79d6bf0fb8d1.gif" style="height:100px;" align="center" />
