@@ -12,7 +12,7 @@
 	  <td display="flex"> 
 	<h4 align="center"> Public Github Stats </h4>
 		  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kin-cunico&layout=compact&langs_count=6&size_weight=1&count_weight=0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kin-cunico)
 		  
 <a href="github.com/kin-cunico" target="_blank"> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kin-cunico&repo=RadioWorld&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 	</a>
