@@ -6,17 +6,9 @@
 
 > [!IMPORTANT]
 > As far as technologies go, I do OOP with <b>Java</b> and <b>C#</b>. I also have familiarity with JavaScript, TypeScript, as well as front-end technologies such as HTML5 and CSS3.
- 
+
 <table align-items="start">
   <tr display="flex" align="center" justify="center">
-	  <td display="flex"> 
-	<h4 align="center"> Public Github Stats </h4>
-		  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kin-cunico)
-		  
-<a href="github.com/kin-cunico" target="_blank"> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kin-cunico&repo=RadioWorld&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-	</a>
-</td>
 <td>
 <h4 align="center">Languages</h4>
 
