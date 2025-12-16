@@ -10,7 +10,7 @@
 <table align-items="start">
   <tr display="flex" align="center" justify="center">
     <td> 
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kin-cunico&theme=tokyonight&bg_color=00000000&hide_border=true&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages"/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kin-cunico&theme=tokyonight&bg_color=00000000&hide_border=true&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages" href="github.com/kin-cunico"/>
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kin-cunico&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true"/>
     </td>
 <td>
